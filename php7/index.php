@@ -1,0 +1,1 @@
+<h2 style="text-align:center;margin-top:50px;"><a href="generate.php">Signatured Image Generator for CodeCanyon!</a></h2>
